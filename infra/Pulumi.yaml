@@ -1,0 +1,5 @@
+name: liveportrait-api
+runtime: nodejs
+description: LivePortrait GPU API — Scaleway GPU Instance + Object Storage for MHH-EI avatar system
+backend:
+  url: s3://sanmarcsoft-pulumi-state?region=fr-par&endpoint=s3.fr-par.scw.cloud

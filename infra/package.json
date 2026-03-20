@@ -1,0 +1,11 @@
+{
+  "name": "liveportrait-api-infra",
+  "main": "index.ts",
+  "dependencies": {
+    "@pulumi/pulumi": "^3",
+    "@pulumiverse/scaleway": "^1.44.0"
+  },
+  "devDependencies": {
+    "typescript": "^5"
+  }
+}
